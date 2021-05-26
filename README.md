@@ -4,6 +4,10 @@
 
 The purpose of this application is for it to act as a teaching tool for Year 12 High School teachers following recent changes to the Australian Curriculum. The design is not to replace any of the teacher's roles, but rather complement the teacher's explanations of topics. For this reason, the application mostly consists of visual demonstrations. 
 
+# Where is it deployed? 
+
+This app is deployed on the QUT School of Maths shinyapp.io site, linked [here](https://qutschoolofmaths.shinyapps.io/mathematicalmethods/).
+
 # The Curriculum 
 
 The following has been taken directly from the Australian Curriculum as of May 16th 2021. 
