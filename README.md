@@ -6,7 +6,7 @@ The purpose of this application is for it to act as a teaching tool for Year 12 
 
 # Where is it deployed? 
 
-This app is deployed on the QUT School of Maths shinyapp.io site, linked [here](https://qutschoolofmaths.shinyapps.io/mathematicalmethods/).
+This app is deployed on the QUT School of Maths shinyapps.io site, linked [here](https://qutschoolofmaths.shinyapps.io/mathematicalmethods/).
 
 # The Curriculum 
 
